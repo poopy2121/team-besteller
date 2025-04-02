@@ -4,7 +4,6 @@ Eine kleine Team-interne Anwendung, mit der sich Mitarbeitende täglich zum Mitt
 Normale Benutzer (Teammitglieder)
 - Können sich registrieren & einloggen
 - Können eine eigene Bestellung für den Tag eintragen/bearbeiten/löschen
-- Sehen die Bestellübersicht des Tages
 - Können keine Preise anderer bearbeiten
  
 Besteller (für den Tag)
