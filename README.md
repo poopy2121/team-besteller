@@ -11,3 +11,5 @@ Besteller (für den Tag)
 - Kann Bestellung „abschließen“ (danach keine Änderungen mehr erlaubt)
 - Darf Preise für alle eintragen oder anpassen
 - Darf Gesamtkosten wie Fahrtkosten, Trinkgeld etc. hinzufügen, die auf alle Besteller umgelegt werden
+
+Ablauf: es gibt einen "Erstelle Bestellung"-button. Man klickt drauf, eine form (titel, z.b Pizzeria xy, Content: yo leute, ich bestelle heute dsa und das, andere usr knnen darauf eintragen was sie essen wollen mit preis)
